@@ -1,4 +1,4 @@
 {
-	{ "Name":"Jonathan Zriny", "Email":"jonathanrzriny@lewisu.edu", "e Derivatives":"" }, 
-	{ "Name":"Jonathan Zriny", "Email":"jonathanrzriny@lewisu.edu", "Trig Derivatives":"" }
+	{ "Name": "Jonathan Zriny", "Email": "jonathanrzriny@lewisu.edu", "e Derivatives": "https://derivatives.azurewebsites.net/eDerivatives.json" },
+	{	"Name": "Jonathan Zriny", "Email": "jonathanrzriny@lewisu.edu", "Trig Derivatives": "https://derivatives.azurewebsites.net/trigRatios.json" }
 } 
