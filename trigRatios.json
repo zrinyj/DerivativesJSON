@@ -1,0 +1,9 @@
+{
+	{ "sinx": "cosx" }.
+	{ "sin(x)": "cos(x)" },
+	{ "cosx": "-sinx" }.
+	{ "cos(x)": "-sin(x)" },
+	{ "tanx": 1/(cosx)^2" }.
+	{ "sin(x)": "1/(cos(x))^2" }
+}
+	
