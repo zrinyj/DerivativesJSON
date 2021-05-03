@@ -1,9 +1,15 @@
 {
-	{ "sinx": "cosx" }.
-	{ "sin(x)": "cos(x)" },
-	{ "cosx": "-sinx" }.
-	{ "cos(x)": "-sin(x)" },
-	{ "tanx": 1/(cosx)^2" }.
-	{ "sin(x)": "1/(cos(x))^2" }
+	{ "function": "sinx" },
+	{ "derivative": "cosx" },
+	{ "function": "sin(x)" },
+	{ "derivative": "cos(x)" },
+	{ "function": "cosx" },
+	{ "derivative": "-sinx" },
+	{ "function": "cos(x)" }, 
+	{ "derivative": "-sin(x)" },
+	{ "function": "tanx" }, 
+	{ "derivative": "1/(cosx)^2" },
+	{ "function": "sin(x)" }, 
+	{ "derivative": "1/(cos(x))^2" }
 }
 	
