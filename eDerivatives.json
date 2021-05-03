@@ -1,5 +1,8 @@
 {
-	{ "e^x":"e^x" },
-	{ "lnx":"1/x" },
-	{ "ln(x)":"1/x" }
+	{ "function" : "e^x" },
+	{ "derivative" :  "e^x" },
+	{ "function": "lnx" },
+	{ "derivative": "1/x" },
+	{ "function": "ln(x)" },
+	{ "derivative": "1/x"}
 }
